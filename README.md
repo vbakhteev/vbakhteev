@@ -12,3 +12,5 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vbakhteev&label=Visitors&color=0e75b6&style=flat" alt="vbakhteev" /> </p> -->
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbakhteev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
